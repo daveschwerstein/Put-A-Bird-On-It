@@ -3,13 +3,6 @@ Liven up your site with birds!
 
 Based on the Portlandia skit, this jQuery plugin adds a random svg image of a bird on the selected element.
 
-Source
-=======
-
-The project source and licensing information is available on [github](http://github.com/daveschwerstein/PutABirdOnIt/).
-
-You can view the annotated source listing [here](http://daveschwerstein.github.com/PutABirdOnIt/docs/index.html).
-
 Example
 ========
 
