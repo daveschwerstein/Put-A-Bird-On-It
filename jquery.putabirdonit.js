@@ -1,7 +1,6 @@
 /*
 	title: Put a Bird on It
 	author: David Schwerstein
-	email: david.schwerstein@gmail.com
 	license:
 		The MIT License (MIT)
 
